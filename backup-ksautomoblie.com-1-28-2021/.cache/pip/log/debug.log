@@ -1,0 +1,203 @@
+Ignoring indexes: https://pypi.python.org/simple
+Collecting setuptools
+Collecting pip
+Installing collected packages: pip, setuptools
+
+
+Successfully installed pip-6.0.8 setuptools-12.0.5
+You are using pip version 6.0.8, however version 19.3.1 is available.
+You should consider upgrading via the 'pip install --upgrade pip' command.
+Collecting virtualenv
+  Retrying (Retry(total=4, connect=None, read=None, redirect=None)) after connection broken by 'ProtocolError('Connection aborted.', OSError(97, 'Address family not supported by protocol'))': /simple/virtualenv/
+  Retrying (Retry(total=3, connect=None, read=None, redirect=None)) after connection broken by 'ProtocolError('Connection aborted.', OSError(97, 'Address family not supported by protocol'))': /simple/virtualenv/
+  Downloading https://files.pythonhosted.org/packages/89/66/786e0d6f61bd0612f431e19b016d1ae46f1cb8d21a80352cc6774ec876e3/virtualenv-16.7.6-py2.py3-none-any.whl (3.4MB)
+Installing collected packages: virtualenv
+
+Successfully installed virtualenv-16.7.6
+You are using pip version 6.0.8, however version 19.3.1 is available.
+You should consider upgrading via the 'pip install --upgrade pip' command.
+Collecting django==2.2.2
+  Downloading https://files.pythonhosted.org/packages/eb/4b/743d5008fc7432c714d753e1fc7ee56c6a776dc566cc6cfb4136d46cdcbb/Django-2.2.2-py3-none-any.whl (7.4MB)
+Collecting pytz (from django==2.2.2)
+  Downloading https://files.pythonhosted.org/packages/e7/f9/f0b53f88060247251bf481fa6ea62cd0d25bf1b11a87888e53ce5b7c8ad2/pytz-2019.3-py2.py3-none-any.whl (509kB)
+Collecting sqlparse (from django==2.2.2)
+  Downloading https://files.pythonhosted.org/packages/ef/53/900f7d2a54557c6a37886585a91336520e5539e3ae2423ff1102daf4f3a7/sqlparse-0.3.0-py2.py3-none-any.whl
+Installing collected packages: sqlparse, pytz, django
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+Successfully installed django-2.2.2 pytz-2019.3 sqlparse-0.3.0

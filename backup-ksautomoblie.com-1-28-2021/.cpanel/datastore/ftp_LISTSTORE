@@ -1,0 +1,1 @@
+{"timeout":0,"data":[{"user":"jzwo3f29htvc","type":"main","homedir":"/home/jzwo3f29htvc"},{"homedir":"/etc/apache2/logs/domlogs/jzwo3f29htvc","type":"logaccess","user":"jzwo3f29htvc_logs"}],"version":"2.4","action":"fetch","statusmsg":"Ran adminbin Cpanel/ftp/LISTSTORE","error":0,"exit_code":0,"status":1,"mode":"simple"}

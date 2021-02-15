@@ -1,6 +1,5 @@
 # ksautomobiles
 
-## Screenshots
 
 ## Screenshots
 ![alt text](https://github.com/nightblooda/ksautomobiles/blob/main/screenshots/home.png?raw=true)
